@@ -1,14 +1,9 @@
 ## Apresentação
 
-Olá, sou Vitor Hugo Bonfim Ferreira, tenho 22 anos, moro na cidade de Três Lagoas - MS e estou cusando Sitemas de Informação na UFMS.
+Olá, sou Vitor Hugo Bonfim Ferreira, tenho 22 anos e atualmente moro na cidade de Três Lagoas - MS. Estou cursando o 6º período de Sistemas de Informação na Universidade Federal de Mato Grosso do Sul. 
 
 ## Sprints 
 
-1. [Sprint 1](Sprint%201/README.md)
-2. [Sprint 2](Sprint%202/README.md)
-3. [Sprint 3](Sprint%203/README.md)
-4. ...
+1. [Sprint 1](Sprint%201/README.md);
 
-## Desafio
-
-1. [Desafio Final](Desafio/README.md)
+tets
