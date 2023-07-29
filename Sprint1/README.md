@@ -1,6 +1,6 @@
-## Resumos dos cursos
+# Resumos completos
 
-[Git e GitHub do básico ao avançado (c/ gist e GitHub Pages)](Resumo.txt)
+### Git e GitHub do básico ao avançado c/ gist e GitHub Pages
 
 O curso muito bem aplicado pelo instrutor Matheus trouxe um contecudo desde o básico até o avançado de git e github,
     foi dividido e em 9 seçoes que explicam de forma teorica e pratica o que faz cada comando dentro do terminal.    
@@ -44,11 +44,20 @@ O curso muito bem aplicado pelo instrutor Matheus trouxe um contecudo desde o b�
     sobrecarregando os Logs, logo se tornará inviavel, deixando de usar algumas funcionalidades do git, usando a ferramenta 
     private branches faz com que um commit seja responsavel.
 
-**       
+**Seção 8: Explorando e entendendo o GitHub**
+
+    Nessa seção entendemos com mais detalhes como usar as funcões do GitHub. Você tem a possiviliade de criar, alterar e 
+    compartilhar um projeto dentro da plataforma.
+
+**Seção 9: Markdown do básico ao avançado**
+
+    O Markdown é uma linguem de marcação usado para textos na web adicionando diversos tipos de estilo. Ele é muito importante 
+    para a apresnetação do projeto, nele você encontra uma breve explicação do que está sendo desenvolvildo. Encontras-se links,
+    imganes e informaçoes complementares.
 
 ####        Comandos mais usados:
-        1. Criar um repositório - Git init
-        2. Verificar o estado do arquivo - Git status
-        3. Git commit
-        4. Git add
-        5. git push 
+        1. git init (Criar um repositório)
+        2. git status (Verificar o estado do arquivo)
+        3. git add (Adiciona um arquivou ou imagem externa)
+        4. git commit (Salva todas as alterações)
+        5. git push (Subir o arquino no repositório do GitHub)
