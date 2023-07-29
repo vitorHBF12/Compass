@@ -6,4 +6,3 @@ Olá, sou Vitor Hugo Bonfim Ferreira, tenho 22 anos e atualmente moro na cidade 
 
 1. [Sprint 1](Sprint1/README.md)
 
-Alterando pra testar 
