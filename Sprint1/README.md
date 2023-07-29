@@ -10,13 +10,25 @@
 
 ** Seção 2: Git fundamental  **  
 
-    nessa seção conhecemos o github que é um serviço para gerenciar repositórios, todos os projetos criados podem ser enviados para github para que outros desenvolvedores consigam acessa-los.
+    nessa seção conhecemos o github que é um serviço para gerenciar repositórios, todos os projetos criados podem ser 
+    enviados para github para que outros desenvolvedores consigam acessa-los.
 
- ** Seção 3: Trabalhando com branches **
+** Seção 3: Trabalhando com branches **
 
-    Nessa seção entramos nas branches que são ramificações das versões do projeto. Nela voc~e pode alterar        
+    Nessa seção entramos nas branches que são ramificações das versões do projeto. Nela você pode fazer alterações em 
+    cada branches e no final juntar em um código fonte final.
 
+** Seção 4: Compartilhamento e atualizações de repositório **
 
+    Os branches que foram criados recentemente podem não ser encontrados pelo git, então é necessa´rio uma busca. 
+    Além disso, outros desenvolvedores que estejam trabalhando no projeto vão mandando alterações e a main vai ficando 
+    para trás, por isso deve dar um comando para atualizar o repositório.
+
+** Seção 5: Análise e inspeção de repositório **
+
+    Nessa seção mostra nos ensina como acessar diversas informações mais detalhadas do que está acontecendo no brancha, nos commits e também das tags.
+
+** Seção 6: Administração de repositório **     
 
 
 ####        Comandos mais usados:
