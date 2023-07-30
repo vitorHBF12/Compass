@@ -55,9 +55,5 @@ O curso muito bem aplicado pelo instrutor Matheus trouxe um contecudo desde o b�
     para a apresnetação do projeto, nele você encontra uma breve explicação do que está sendo desenvolvildo. Encontras-se links,
     imganes e informaçoes complementares.
 
-####        Comandos mais usados:
-        1. git init (Criar um repositório)
-        2. git status (Verificar o estado do arquivo)
-        3. git add (Adiciona um arquivou ou imagem externa)
-        4. git commit (Salva todas as alterações)
-        5. git push (Subir o arquino no repositório do GitHub)
+
+
