@@ -1,7 +1,8 @@
 # Resumos completos
 
 ### Git e GitHub do básico ao avançado c/ gist e GitHub Pages
-[Certificado:](https://www.udemy.com/certificate/UC-e8e8bf04-d8ed-4b29-a637-7577addc553b/)
+[Certificado](https://www.udemy.com/certificate/UC-e8e8bf04-d8ed-4b29-a637-7577addc553b/)
+
 O curso ministrado pelo instrutor Matheus foi extremamente eficiente, abordando o conteúdo de git e github de 
 forma completa, desde os conceitos básicos até os mais avançados. O conteúdo foi dividido em 9 seções bem 
 estruturadas, que explicam de maneira teórica e prática o funcionamento de cada comando no terminal.
@@ -68,7 +69,8 @@ explicação do que está sendo desenvolvido, inserir links, imagens e informaç
 
 
 ### Linux para Desenvolvedores (c/ terminal, Shell, Apache e +)
-[Certificado:](https://www.udemy.com/certificate/UC-a3a20ff6-2b1a-429d-9562-c0a1cb04c9f0/)
+[Certificado](https://www.udemy.com/certificate/UC-a3a20ff6-2b1a-429d-9562-c0a1cb04c9f0/)
+
 O Linux é um sistema operacional de código aberto e gratuito amplamente utilizado por desenvolvedores 
 devido à sua segurança, estabilidade e capacidade de personalização.
 No curso, são abordadas as técnicas de instalação do sistema e suas aplicações através do terminal, 
