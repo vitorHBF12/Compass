@@ -2,58 +2,68 @@
 
 ### Git e GitHub do básico ao avançado c/ gist e GitHub Pages
 
-O curso muito bem aplicado pelo instrutor Matheus trouxe um contecudo desde o básico até o avançado de git e github,
-    foi dividido e em 9 seçoes que explicam de forma teorica e pratica o que faz cada comando dentro do terminal.    
-    
+O curso ministrado pelo instrutor Matheus foi extremamente eficiente, abordando o conteúdo de git e github de 
+forma completa, desde os conceitos básicos até os mais avançados. O conteúdo foi dividido em 9 seções bem 
+estruturadas, que explicam de maneira teórica e prática o funcionamento de cada comando no terminal.
+
 **Seção 1: Introdução e instalação das dependências**
 
-    Foi apresentetado as ferramentas que seram usadas para desenvolver os projetos no devorrer do curso, além disso 
-    apresenta o **git** que é um projeto de codígo aberto baseado em repositorios.
+Durante o decorrer do curso, foram apresentadas as ferramentas que serão utilizadas no desenvolvimento dos
+projetos. Além disso, foi abordado o Git, que é um projeto de código aberto baseado em repositórios.
 
 **Seção 2: Git fundamental**  
 
-    nessa seção conhecemos o github que é um serviço para gerenciar repositórios, todos os projetos criados podem ser 
-    enviados para github para que outros desenvolvedores consigam acessa-los.
+Nesta seção, tivemos a oportunidade de conhecer o GitHub, um serviço que permite o gerenciamento de 
+repositórios. Todos os projetos criados podem ser enviados para o GitHub, possibilitando que outros 
+desenvolvedores tenham acesso a eles.
 
 **Seção 3: Trabalhando com branches**
 
-    Nessa seção entramos nas branches que são ramificações das versões do projeto. Nela você pode fazer alterações em 
-    cada branches e no final juntar em um código fonte final.
+Nessa seção, adentramos o conceito das branches, que são ramificações das versões do projeto. Através 
+das branches, é possível realizar alterações independentes em cada uma delas e, posteriormente, 
+combiná-las em um código-fonte final consolidado.
 
 **Seção 4: Compartilhamento e atualizações de repositório**
 
-    Os branches que foram criados recentemente podem não ser encontrados pelo git, então é necessa´rio uma busca. 
-    Além disso, outros desenvolvedores que estejam trabalhando no projeto vão mandando alterações e a main vai ficando 
-    para trás, por isso deve dar um comando para atualizar o repositório.
+Os branches recentemente criados podem não ser imediatamente localizados pelo Git, sendo necessário 
+realizar uma busca específica. Além disso, à medida que outros desenvolvedores trabalham no projeto, 
+enviando suas alterações, a branch principal (main) pode acabar ficando desatualizada. Nesse caso, é 
+importante utilizar um comando para atualizar o repositório e sincronizá-lo com as mudanças mais recentes.
 
 **Seção 5: Análise e inspeção de repositório**
 
-    Nessa seção mostra nos ensina como acessar diversas informações mais detalhadas do que está acontecendo no brancha,
-    nos commits e também das tags.
+Nesta seção, somos ensinados a acessar informações detalhadas sobre o que está ocorrendo no branch, nos
+ commits e também nas tags. Isso nos permite obter uma visão mais aprofundada do histórico de alterações,
+  das atividades realizadas em cada commit e do versionamento através das tags.
 
 **Seção 6: Administração de repositório**     
 
-    Quando adicionamos varia imagens ou arquisos em um projeto  e não seram utlilzadods se tornar os arquivos untracked
-    (lixo eletrônico) por isso é sempre bom fazer uma limpeza para não afetar a visualização do que é importante. 
-    Além disso, sempre estar otimizando e verificando integridade dos arquinos no repositorio para melhorar a performance.
+Quando adicionamos várias imagens ou arquivos a um projeto, mas não os utilizamos, eles se tornam arquivos
+não rastreados (lixo eletrônico), o que pode afetar a visualização do que é realmente importante. Por isso, 
+é sempre recomendado fazer uma limpeza regular para manter apenas os arquivos relevantes no repositório.
+
+Além disso, é fundamental estar sempre otimizando e verificando a integridade dos arquivos no repositório para 
+melhorar a performance do projeto. Dessa forma, garantimos que o versionamento seja eficiente e que o trabalho 
+colaborativo com outros desenvolvedores ocorra de maneira mais fluida.
 
 **Seção 7:  Melhorando os commits do projeto**
 
-    Os commits não são apenas meios de salvar as alterções de um projeto, eles precisam seguir um padrão para que possam 
-    ajudar no desenvolvimento do projeto. Os branches com commits ruim acontecem com frequencia nos proejetos e isso vai 
-    sobrecarregando os Logs, logo se tornará inviavel, deixando de usar algumas funcionalidades do git, usando a ferramenta 
-    private branches faz com que um commit seja responsavel.
+Os commits não são apenas meios de salvar as alterações de um projeto; eles precisam seguir um padrão para que 
+possam ajudar no desenvolvimento do projeto. Commits mal feitos ocorrem com frequência em projetos, o que 
+sobrecarrega os logs e, eventualmente, torna-se inviável, podendo levar ao abandono de algumas funcionalidades do
+git. O uso de branches privados permite que cada commit seja responsável e bem estruturado.
 
 **Seção 8: Explorando e entendendo o GitHub**
 
-    Nessa seção entendemos com mais detalhes como usar as funcões do GitHub. Você tem a possiviliade de criar, alterar e 
-    compartilhar um projeto dentro da plataforma.
+Nesta seção, vamos explorar de forma mais detalhada como utilizar as funcionalidades do GitHub. Aqui, você terá 
+a possibilidade de criar, modificar e compartilhar projetos diretamente na plataforma.
 
 **Seção 9: Markdown do básico ao avançado**
 
-    O Markdown é uma linguem de marcação usado para textos na web adicionando diversos tipos de estilo. Ele é muito importante 
-    para a apresnetação do projeto, nele você encontra uma breve explicação do que está sendo desenvolvildo. Encontras-se links,
-    imganes e informaçoes complementares.
+O Markdown é uma linguagem de marcação utilizada para a formatação de textos na web, permitindo adicionar diversos
+estilos. Ele desempenha um papel fundamental na apresentação de projetos, pois possibilita incluir uma breve 
+explicação do que está sendo desenvolvido, inserir links, imagens e informações complementares. Com o Markdown,
+é fácil estruturar e enriquecer o conteúdo para uma melhor compreensão e visualização.
 
 
 

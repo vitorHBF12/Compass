@@ -1,12 +1,12 @@
 ## Apresentação
 
-Olá, sou Vitor Hugo Bonfim Ferreira, tenho 22 anos e atualmente moro na cidade de Três Lagoas - MS. Estou cursando o 6º período de Sistemas de Informação na Universidade Federal de Mato Grosso do Sul. 
+Olá, sou Vitor Hugo Bonfim Ferreira, tenho 22 anos e atualmente moro na cidade de Três Lagoas - MS. Estou cursando o 6º período de Sistemas de Informação na Universidade Federal de Mato Grosso do Sul.
 
 ## Sprints 
 
 ### Sprint1
 
-### Git e GitHub do básico ao avançado c/ gist e GitHub Pages**
+### Git e GitHub do básico ao avançado c/ gist e GitHub Pages
 
 Git e GitHub são duas poderosas ferramentas amplamente utilizadas no desenvolvimento de software, desempenhando papéis cruciais no controle de versão e na colaboração entre desenvolvedores.
 
