@@ -1,6 +1,11 @@
 ## Apresentação
 
 Olá, sou Vitor Hugo Bonfim Ferreira, tenho 22 anos e atualmente moro na cidade de Três Lagoas - MS. Estou cursando o 6º período de Sistemas de Informação na Universidade Federal de Mato Grosso do Sul.
+Alguns dos meus Hobbies:
+* Xadrez
+* Natação
+* Ciclismo
+* Jogar CS
 
 ## Sprints 
 
@@ -29,7 +34,7 @@ Git e GitHub são duas poderosas ferramentas amplamente utilizadas no desenvolvi
 * git push (Subir o arquino no repositório do GitHub)
 
 
-### Linux para Desenvolvedores (c/ terminal, Shell, Apache e +)**
+### Linux para Desenvolvedores (c/ terminal, Shell, Apache e +)
 
 O Linux é um sistema operacional de código aberto e gratuito amplamente utilizado por desenvolvedores 
 devido à sua segurança, estabilidade e capacidade de personalização.
