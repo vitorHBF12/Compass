@@ -69,5 +69,25 @@ arquitetura que dificulta a propagação de malwares.
 
 [Informações mais detalhadas da Sprint 1](Sprint1/README.md)
 
+### Sprint 2 
+
+### SQL para Análise de Dados: Do básico ao avançado
+
+O Curso apresentou na prática como utilizar a linguem SQL com as ferramentas pgAdmin e posterSQL.
+Os principais requisitos para se tornar um profissioanl do SQL é entender como os dados são manipulados
+e como eles seram aplicados. Os comandos mais utliziados no são:
+
+* Select - seleciona o que será 
+* FROM - seleciona quais tabelas serão utilizadas
+* WHERE - faz a filtragem dos dados com uma condição
+* GROUP BY - faz uma análise dos dados de uma coluna 
+* JOIN  - faz o relacionamento entre as tabelas
+* LIMIT - limita quantos dados vc quer apresentar
+* ORDER BY - para colocar os dados em orderm crescente ou decrescente
 
 
+### Big Data Fundamentos 3.0
+
+Podemos definir o conceito de Big Data como sendo conjuntos de dados extermamente amplos e que, por este motivo, necessitam de ferramentas especialmente preparadadas para lidar com grandes volumesm velocidade e variedade, de forma que toda e qualquer informação disponivel nos dados possa se encontrada, analisada e aproveitadada em tempo hábil. 
+
+[Informações mais detalhadas da Sprint 2](Sprint1/README.md)
