@@ -1,4 +1,4 @@
-# Conteudos da Sprint 2
+# Conteúdos da Sprint 2
 
 ## SQL para Análise de Dados: Do básico ao avançado 
 
