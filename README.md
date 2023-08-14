@@ -74,8 +74,8 @@ arquitetura que dificulta a propagação de malwares.
 ### SQL para Análise de Dados: Do básico ao avançado
 
 O Curso apresentou na prática como utilizar a linguem SQL com as ferramentas pgAdmin e posterSQL.
-Os principais requisitos para se tornar um profissioanl do SQL é entender como os dados são manipulados
-e como eles seram aplicados. Os comandos mais utliziados no são:
+Os principais requisitos para se tornar um profissional do SQL é entender como os dados são manipulados
+e como eles serão aplicados. Os comandos mais utliziados no são:
 
 * Select - seleciona o que será 
 * FROM - seleciona quais tabelas serão utilizadas
@@ -88,6 +88,9 @@ e como eles seram aplicados. Os comandos mais utliziados no são:
 
 ### Big Data Fundamentos 3.0
 
-Podemos definir o conceito de Big Data como sendo conjuntos de dados extermamente amplos e que, por este motivo, necessitam de ferramentas especialmente preparadadas para lidar com grandes volumesm velocidade e variedade, de forma que toda e qualquer informação disponivel nos dados possa se encontrada, analisada e aproveitadada em tempo hábil. 
+O conceito de Big Data pode ser caracterizado como conjuntos de informações vastas, exigindo o uso de 
+ferramentas especialmente desenvolvidas para gerenciar grandes volumes, velocidade e diversidade de dados.
+Isso permite a descoberta, análise e aproveitamento eficiente de todas as informações contidas nos dados,
+tudo dentro de um prazo viável.
 
-[Informações mais detalhadas da Sprint 2](Sprint1/README.md)
+[Informações mais detalhadas da Sprint 2](Sprint2/README.md)
