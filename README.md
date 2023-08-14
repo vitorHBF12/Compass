@@ -92,5 +92,13 @@ O conceito de Big Data pode ser caracterizado como conjuntos de informações va
 ferramentas especialmente desenvolvidas para gerenciar grandes volumes, velocidade e diversidade de dados.
 Isso permite a descoberta, análise e aproveitamento eficiente de todas as informações contidas nos dados,
 tudo dentro de um prazo viável.
+Ele é caracterizado pelos 4Vs essenciais: volume, veracidade, variedade e velocidade. O "volume" refere-se 
+à magnitude dos dados, capturando cada interação de um usuário em um website, que é registrado e retido para
+orientar recomendações específicas. A "variedade" abrange os diversos formatos dos dados, exemplificado pela
+multiplicidade de tipos em uma empresa que opera online, incluindo vídeos, imagens, arquivos de texto, e mais.
+A "velocidade" denota a taxa de geração dos dados, como o aumento do volume de informações nas redes sociais 
+conforme mais usuários interagem e compartilham conteúdo. "Veracidade" diz respeito à confiabilidade dos dados,
+sendo imperativo que as informações geradas por uma empresa sejam verídicas; a ausência deste "V" invalidaria a
+caracterização de Big Data.
 
 [Informações mais detalhadas da Sprint 2](Sprint2/README.md)

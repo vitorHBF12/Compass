@@ -1,6 +1,6 @@
 # Conteudos da Sprint 2
 
-## SQL para Análise de Dados: Do básico ao avançado - [Certificado](https://www.udemy.com/certificate/UC-ded04900-2e3d-4c2c-8053-fcd0617cd5cf/)
+## SQL para Análise de Dados: Do básico ao avançado 
 
 
 ### Data & Analytics - PB - AWS 2/10 Exercícios práticos
@@ -151,5 +151,3 @@ where status = 'Concluído'
 group by estado , nmpro 
 order by estado , nmpro
 ```
-
-
