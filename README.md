@@ -102,3 +102,26 @@ sendo imperativo que as informações geradas por uma empresa sejam verídicas; 
 caracterização de Big Data.
 
 [Informações mais detalhadas da Sprint 2](Sprint2/README.md)
+
+
+### Sprint 3
+
+Nessa sprint, foi apresentada a linguagem de programação Python, que será a principal ferramenta para o desenvolvimento dos projetos. Ela se diferencia das demais linguagens por ter uma sintaxe mais "fácil". Além disso, é uma das mais amplamente utilizadas no mercado de trabalho.
+
+As principais operações estudadas foram:
+
+1. `int(p)`: Essa operação converterá o valor `p` para um número inteiro.
+   É possível converter strings (`str`) e números de ponto flutuante (`float`) em inteiros.
+
+2. `float(p)`: Essa operação converterá o valor `p` para um número de ponto flutuante.
+   É possível converter strings (`str`) e números inteiros (`int`) em números de ponto flutuante.
+
+3. `str(p)`: Essa operação converterá o valor `p` para uma representação em forma de string.
+   É possível converter inteiros (`int`), números de ponto flutuante (`float`), listas (`list`), tuplas (`tuple`) e dicionários (`dict`) em strings.
+
+4. `list(p)`: Essa operação converterá o valor `p` para uma lista.
+   É possível converter strings (`str`), tuplas (`tuple`) e dicionários (`dict`) em listas.
+
+5. `tuple(p)`: Essa operação converterá o valor `p` para uma tupla.
+   É possível converter strings (`str`), listas (`list`) e dicionários (`dict`) em tuplas.
+
