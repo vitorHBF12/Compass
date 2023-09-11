@@ -17,5 +17,4 @@ with open('actors.csv', 'r') as arquivo:
 
     if num_filmes > 0:
         media_gross = total_gross / num_filmes
-        print(
-            f"A média é de {media_gross:.2f} milhões de dólares.")
+        print(f"A média é de {media_gross:.2f} milhões de dólares.")

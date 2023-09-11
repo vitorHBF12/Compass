@@ -17,7 +17,6 @@ class Pardal(Passaro):
         super().emitir_som("Piu Piu")
 
 
-# Testando as classes
 if __name__ == "__main__":
     pato = Pato()
     print("Pato")

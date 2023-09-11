@@ -6,14 +6,10 @@ class Calculo:
         return x - y
 
 
-# Valores de teste
 x = 4
 y = 5
 
-# Criando uma instância da classe Calculo
 calculadora = Calculo()
-
-# Realizando as operações e imprimindo os resultados
 soma = calculadora.somar(x, y)
 subtracao = calculadora.subtrair(x, y)
 

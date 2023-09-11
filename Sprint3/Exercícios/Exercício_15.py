@@ -12,7 +12,6 @@ class Lampada:
         return self.ligada
 
 
-# Teste da classe Lampada
 lampada = Lampada()
 
 lampada.liga()
